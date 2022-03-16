@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# Spotify Playlist Creator
+To open this project in your browser [click here](https://mendelgordon-jamming.netlify.app/).<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
